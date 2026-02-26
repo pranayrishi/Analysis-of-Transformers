@@ -16,6 +16,3 @@ transformer_dynsys/data/ns_dataset/*.tar.gz
 .idea/
 *.swp
 *.swo
-
-# Claude Code
-.claude/
