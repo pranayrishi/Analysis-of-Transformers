@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+dist/
+build/
+
+# Large data files (Navier-Stokes CFD dataset ~2.9 GB)
+transformer_dynsys/data/ns_dataset/*.hdf5
+transformer_dynsys/data/ns_dataset/*.tar.gz
+
+# IDE / OS
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Claude Code
+.claude/
